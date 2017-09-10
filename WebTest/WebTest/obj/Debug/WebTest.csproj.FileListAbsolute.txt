@@ -1,0 +1,12 @@
+C:\working\tir-script\WebTest\WebTest\bin\Debug\WebTest.dll
+C:\working\tir-script\WebTest\WebTest\bin\Debug\WebTest.pdb
+C:\working\tir-script\WebTest\WebTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\working\tir-script\WebTest\WebTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.WebTestFramework.resources.dll
+C:\working\tir-script\WebTest\WebTest\obj\Debug\WebTest.csprojResolveAssemblyReference.cache
+C:\working\tir-script\WebTest\WebTest\obj\Debug\WebTest.csproj.CoreCompileInputs.cache
+C:\working\tir-script\WebTest\WebTest\obj\Debug\WebTest.dll
+C:\working\tir-script\WebTest\WebTest\obj\Debug\WebTest.pdb
+C:\working\tir-script\WebTest\WebTest\bin\Debug\TestSync.webtest
+C:\working\tir-script\WebTest\WebTest\bin\Debug\TestAsync.webtest
+C:\working\tir-script\WebTest\WebTest\bin\Debug\LoadTestAsync.loadtest
+C:\working\tir-script\WebTest\WebTest\bin\Debug\LoadTestSync.loadtest
